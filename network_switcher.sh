@@ -15,7 +15,7 @@ function check_gateways {
     return 1
 }
 
-while sleep $(shuf -i 15-30 -n 1)s; do
+while sleep 25s; do
 	if check_gateways; then
 	        echo "🟢 $(date +'%Y-%m-%d %T')"
 
