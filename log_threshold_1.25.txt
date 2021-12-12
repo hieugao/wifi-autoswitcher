@@ -1,0 +1,33 @@
+➜  wifi-autoswitcher git:(main) ✗ ./network_switcher.sh
+🚀 Start at 2021-12-12 13:43:58
+🚦 2.45 MB/s // 2021-12-12 13:47:12
+🚦 2.20 MB/s // 2021-12-12 13:50:27
+🚦 1.95 MB/s // 2021-12-12 13:53:42
+🚦 2.73 MB/s // 2021-12-12 13:56:56
+^C
+➜  wifi-autoswitcher git:(main) ✗ ./network_switcher.sh
+🚀 Start at 2021-12-12 13:58:09
+🚦 1007 KB/s at 2021-12-12 14:01:30
+Connection successfully activated (D-Bus active path: /org/freedesktop/NetworkManager/ActiveConnection/20)
+🚦 2.56 MB/s at 2021-12-12 14:04:48
+🚦 2.64 MB/s at 2021-12-12 14:08:02
+^C
+➜  wifi-autoswitcher git:(main) ✗ ./network_switcher.sh
+🚀 Start at 2021-12-12 14:10:14
+🚦 2.63 MB/s at 2021-12-12 14:13:28
+🚦 2.52 MB/s at 2021-12-12 14:16:42
+🚦 2.70 MB/s at 2021-12-12 14:19:56
+🚦 1.56 MB/s at 2021-12-12 14:23:12
+🚦 1.39 MB/s at 2021-12-12 14:26:29
+🚦 2.58 MB/s at 2021-12-12 14:29:44
+🚦 1.07 MB/s at 2021-12-12 14:33:03
+Connection successfully activated (D-Bus active path: /org/freedesktop/NetworkManager/ActiveConnection/21)
+🚦 1.08 MB/s at 2021-12-12 14:36:25
+Connection successfully activated (D-Bus active path: /org/freedesktop/NetworkManager/ActiveConnection/22)
+🚦 1.73 MB/s at 2021-12-12 14:39:45
+🚦 1.33 MB/s at 2021-12-12 14:43:03
+🚦 1.01 MB/s at 2021-12-12 14:46:24
+Connection successfully activated (D-Bus active path: /org/freedesktop/NetworkManager/ActiveConnection/23)
+🚦 1.25 MB/s at 2021-12-12 14:49:45
+🚦 2.52 MB/s at 2021-12-12 14:52:59
+🚦 2.28 MB/s at 2021-12-12 14:56:14
